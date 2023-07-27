@@ -1,0 +1,8 @@
+C:\DotNet\Assignment-17\Shape\Shape\bin\Debug\Shape.exe.config
+C:\DotNet\Assignment-17\Shape\Shape\bin\Debug\Shape.exe
+C:\DotNet\Assignment-17\Shape\Shape\bin\Debug\Shape.pdb
+C:\DotNet\Assignment-17\Shape\Shape\obj\Debug\Shape.csproj.AssemblyReference.cache
+C:\DotNet\Assignment-17\Shape\Shape\obj\Debug\Shape.csproj.SuggestedBindingRedirects.cache
+C:\DotNet\Assignment-17\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\DotNet\Assignment-17\Shape\Shape\obj\Debug\Shape.exe
+C:\DotNet\Assignment-17\Shape\Shape\obj\Debug\Shape.pdb
